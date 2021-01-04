@@ -1,5 +1,4 @@
-import subprocess 
-from database_manager import store_passwords, find_users, find_password 
+from db_settings import store_passwords, find_users, find_password 
 
 
 def menu():
