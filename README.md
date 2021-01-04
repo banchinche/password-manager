@@ -7,4 +7,5 @@ Provides:
  2. Find all sites and apps connected to mail.
  3. Find a password for a site.
  4. Change a master password.
-Also username attribute is optional.
+ 
+ Also username attribute is optional.
